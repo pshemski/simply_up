@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.2.3'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rb-readline'
 
-# gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt', '~> 3.1.7'
 # gem 'unicorn'
 
 group :development, :test do
